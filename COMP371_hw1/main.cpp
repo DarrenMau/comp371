@@ -69,7 +69,10 @@ double mousePosY = 0;
 double mousePosY_down = 0;
 glm::vec3 eyeMouseDown = eye;
 float num = 1;
-bool back = false;
+bool arrowUp = false;
+bool arrowleft = false;
+bool arrowRight = false;
+bool arrowDown = false;
 
 ///Handle the keyboard input
 void keyPressed(GLFWwindow *_window, int key, int scancode, int action, int mods) {

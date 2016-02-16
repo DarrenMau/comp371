@@ -1,13 +1,14 @@
-﻿  main.cpp
-c:\users\darren\desktop\new folder (5) - copy\comp371_hw1\main.cpp(85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\darren\desktop\new folder (5) - copy\comp371_hw1\main.cpp(90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\darren\desktop\new folder (5) - copy\comp371_hw1\main.cpp(95): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\darren\desktop\new folder (5) - copy\comp371_hw1\main.cpp(101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\darren\desktop\new folder (5) - copy\comp371_hw1\main.cpp(331): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\darren\desktop\new folder (5) - copy\comp371_hw1\main.cpp(348): warning C4018: '<': signed/unsigned mismatch
-c:\users\darren\desktop\new folder (5) - copy\comp371_hw1\main.cpp(366): warning C4018: '<': signed/unsigned mismatch
-c:\users\darren\desktop\new folder (5) - copy\comp371_hw1\main.cpp(394): warning C4018: '<': signed/unsigned mismatch
-c:\users\darren\desktop\new folder (5) - copy\comp371_hw1\main.cpp(396): warning C4018: '<': signed/unsigned mismatch
-c:\users\darren\desktop\new folder (5) - copy\comp371_hw1\main.cpp(479): warning C4018: '<': signed/unsigned mismatch
-c:\users\darren\desktop\new folder (5) - copy\comp371_hw1\main.cpp(517): warning C4101: 'vertexbuffer': unreferenced local variable
-  COMP371_hw1.vcxproj -> C:\Users\Darren\Desktop\New folder (5) - Copy\Debug\COMP371_hw1.exe
+﻿  stdafx.cpp
+  main.cpp
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(88): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(98): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(334): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(351): warning C4018: '<': signed/unsigned mismatch
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(369): warning C4018: '<': signed/unsigned mismatch
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(397): warning C4018: '<': signed/unsigned mismatch
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(399): warning C4018: '<': signed/unsigned mismatch
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(482): warning C4018: '<': signed/unsigned mismatch
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(520): warning C4101: 'vertexbuffer': unreferenced local variable
+  COMP371_hw1.vcxproj -> C:\Users\Darren\Desktop\New folder (5) - Copy\comp371\Debug\COMP371_hw1.exe

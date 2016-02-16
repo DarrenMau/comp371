@@ -1,0 +1,41 @@
+﻿  stdafx.cpp
+  main.cpp
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(1): warning C4627: '#include "glew.h"': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(1): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(3): warning C4627: '#include "glfw3.h"': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(3): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(5): warning C4627: '#include "glm.hpp"': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(5): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(6): warning C4627: '#include "gtc/matrix_transform.hpp"': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(6): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(7): warning C4627: '#include "gtc/type_ptr.hpp"': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(7): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(8): warning C4627: '#include "gtc/constants.hpp"': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(8): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(11): warning C4627: '#include <stdlib.h>': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(11): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(12): warning C4627: '#include <math.h>': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(12): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(13): warning C4627: '#include <cmath>': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(13): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(15): warning C4627: '#include <vector>': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(15): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(16): warning C4627: '#include <string>': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(16): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(17): warning C4627: '#include <fstream>': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(17): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(18): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(18): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(19): warning C4627: '#include <algorithm>': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(19): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(20): warning C4627: '#include <vector>': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(20): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(21): warning C4627: '#include <cctype>': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(21): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(22): warning C4627: '#include <math.h>': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(22): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(23): warning C4627: '#include <vector>': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(23): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(24): warning C4627: '#include <fstream>': skipped when looking for precompiled header use
+  c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(24): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\darren\desktop\new folder (5) - copy\comp371\comp371_hw1\main.cpp(569): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
